@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ide.h": "c",
+			"delay.h": "c",
+			"chrdevbaseAPP.C": "cpp"
+		}
+	}
+}
